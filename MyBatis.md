@@ -1,4 +1,4 @@
-# MyBatis 自动生成Dao和XML的用法
+# MyBatis 自动生成Dao和XML的用法（插件式）
 
 ### 配置文件
 
