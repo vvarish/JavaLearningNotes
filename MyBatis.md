@@ -2,8 +2,9 @@
 
 ### 配置文件
 
-位置：src/main/resources/mybatis-generator-config.xml
-注意：通常xxMapper或xxDao的xml文件是追加形式，而不是覆盖
+- 位置：src/main/resources/mybatis-generator-config.xml
+
+- 注意：重复生成xml文件是追加形式，而不是覆盖
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
